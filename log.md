@@ -12,6 +12,24 @@
 **Link to work:**
 ```
 
+### Day 7 : Aug 3, 2018 Fri
+
+**Today's Progress**:
+
+- Node.js 교과서 Chap2 (promise, async/await)
+- Node.js 교과셔 Chap 4 - http 모듈로 웹 서버 만들기.
+
+**Thoughts:** :
+
+- #100DaysOfCode repo를 fork 해서 했는데, 잔디 심기가 안 되서 그냥 새로 repo를 팠는데, 주말에 개인 노트북에서 업데이트하고 회사에서 repo 새로 만들어서 몇 일 날려먹었다.
+- node.js 교과서 책 좋다. 빨리 꾸준히 보면서 javascript 와 backend 익숙하게 system 만들고 싶다.
+
+**Link to work:**
+
+- [TIL/javascript at master · tkhwang/TIL](https://github.com/tkhwang/TIL/tree/master/javascript)
+- [tkhwang-coding-practice/server.js at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/book/nodejs_textbook/chap04/server.js)
+
+
 ### Day 5 : Jul 29, 2018 SUN
 
 **Today's Progress**:
