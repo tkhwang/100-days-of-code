@@ -12,6 +12,21 @@
 **Link to work:**
 ```
 
+### Day 8 : Aug 4, 2018 Sat
+
+**Today's Progress**:
+
+- (node.js 교과서) Chap4 : http 모듈로 웹 서버 만들기 공부함.
+
+**Thoughts:** :
+
+- node http 모듈 이용해서 server 구축하고, on, error listen listener 걸기.
+- Cookie, session 처리에 대한 시작함.
+
+**Link to work:**
+
+- [tkhwang-coding-practice/server4.js at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/fullstack/nodejs_textbook/chap04/server4.js)
+
 ### Day 7 : Aug 3, 2018 Fri
 
 **Today's Progress**:
