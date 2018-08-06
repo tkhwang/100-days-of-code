@@ -12,6 +12,22 @@
 **Link to work:**
 ```
 
+### Day 9 : Aug 6, 2018 Mon
+
+**Today's Progress**:
+
+- (node.js 교과서) Chap4 : 4.4 - http/http2, 4.5 - cluster, Chap6 : Express 시작함.
+
+**Thoughts:** :
+
+- Node.js 교과서 chap6 들어가면서 이제 조금씩 node 코드 다워지고 있다.
+- 이를 빨리 보고, 내가 원하는 것을 만들어 볼 수 있으면 좋겠다. 빨리 하자...
+
+**Link to work:**
+
+- 4.4 http/http2 : https://github.com/tkhwang/tkhwang-coding-practice/blob/master/fullstack/nodejs_textbook/chap04/4.4_http_http2/server1.js
+- 4.5 cluster : https://github.com/tkhwang/tkhwang-coding-practice/blob/master/fullstack/nodejs_textbook/chap04/4.5_cluster/cluster.js
+
 ### Day 8 : Aug 4, 2018 Sat
 
 **Today's Progress**:
