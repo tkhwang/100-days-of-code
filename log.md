@@ -12,6 +12,35 @@
 **Link to work:**
 ```
 
+### Day 11 : Aug 10, 2018 Fri
+
+**Today's Progress**:
+
+- Codewars/7kyu (javascript) 문제 풀이
+- node.js 프로그래밍 chap05 - file operation 부분 스터디함.
+
+**Thoughts:** :
+
+- Codewars에 오랜만에 문제 풀이 다시 시작함. 이전에는 python으로 주로 했는데, 현재는 javascript 위주로 문제 풀이할 예정임.
+- nodejs.교과서 이전에 node.js 프로그래밍 보다 얇은 책으로 빠르게 전체를 학습한 이후에 node.js 교과서로 세밀하게 학습할 예정임.
+
+**Link to work:**
+
+- [tkhwang-coding-practice/whos_online.md at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/coding/codewars/7kyu/whos_online.md)
+
+### Day 10 : Aug 7, 2018 Tue
+
+**Today's Progress**:
+
+- Blockchain 관련 concept 내용 정리함.
+
+**Thoughts:** :
+
+- 오늘은 coding 보다 blockchain 관련된 basic concept 내용 정리함.
+
+**Link to work:**
+
+
 ### Day 9 : Aug 6, 2018 Mon
 
 **Today's Progress**:
