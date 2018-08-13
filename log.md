@@ -12,6 +12,23 @@
 **Link to work:**
 ```
 
+### Day 12 : Aug 13, 2018 Mon
+
+**Today's Progress**:
+
+- Blockchain 소스 분석을 제대로 하기 위해서 [NAKsir-melody/go-ethereum 한국어 주석번역 프로젝트)](https://github.com/NAKsir-melody/go-ethereum)과 비슷하게 public blockchain 인 ethereum (`go-ethereum`)과 private blokchain 인 hyperledger fabric 소스 코드 분석을 하면서 코드 읽으면서 UML 도 그리고, 코드 사이 관계도 정리하면서 좀더 적극적으로 정리할 예정이다.
+- 그 시작으로 `go-ethereum` 의 `accounts` module 분석을 시작하다.
+
+**Thoughts:** :
+
+- Blockchain 소스 코드를 좀더 잘 이해하기 위해서 그냥 읽는 것이 아니라 적극적으로 정리하면서 읽으면서 정리하면서 하니깐 좀더 잘 이해되는 느낌이다.
+- 컨텐츠가 좀더 모이면 steemit https://steemit.com/@tkhwang 과 블로그에서 정리해서 올릴 예정이다.
+- 다음에는 dApp 개발에도 좀더 신경쓸 예정이다.
+
+**Link to work:**
+
+- Blockchain : `go-ethereum` accounts module 분석 중 [accounts.png (1074×286)](https://raw.githubusercontent.com/tkhwang/tkhwang-go-ethereum/master/accounts/accounts.png)
+
 ### Day 11 : Aug 10, 2018 Fri
 
 **Today's Progress**:
