@@ -12,6 +12,21 @@
 **Link to work:**
 ```
 
+### Day 13 : Aug 14, 2018 Tue
+
+**Today's Progress**:
+
+- `go-ethereum` 소스 중에서 `ethclient` module 분석함.
+
+**Thoughts:** :
+
+- javascript 과 함께 blockchain ethereum 소스도 분석 시작하게 되어 좋다.
+- go language 도 곧 시작할 예정임.
+
+**Link to work:**
+
+- `go-ethereum/ethclient` UML : [tkhwang-go-ethereum/ethclient.go.png](https://github.com/tkhwang/tkhwang-go-ethereum/blob/master/ethclient/ethclient.go.png)
+
 ### Day 12 : Aug 13, 2018 Mon
 
 **Today's Progress**:
@@ -38,7 +53,7 @@
 
 **Thoughts:** :
 
-- Codewars에 오랜만에 문제 풀이 다시 시작함. 이전에는 python으로 주로 했는데, 현재는 javascript 위주로 문제 풀이할 예정임.
+- Codewars 에 오랜만에 문제 풀이 다시 시작함. 이전에는 python 으로 주로 했는데, 현재는 javascript 위주로 문제 풀이할 예정임.
 - nodejs.교과서 이전에 node.js 프로그래밍 보다 얇은 책으로 빠르게 전체를 학습한 이후에 node.js 교과서로 세밀하게 학습할 예정임.
 
 **Link to work:**
@@ -56,7 +71,6 @@
 - 오늘은 coding 보다 blockchain 관련된 basic concept 내용 정리함.
 
 **Link to work:**
-
 
 ### Day 9 : Aug 6, 2018 Mon
 
@@ -98,7 +112,7 @@
 
 **Thoughts:** :
 
-- #100DaysOfCode repo를 fork 해서 했는데, 잔디 심기가 안 되서 그냥 새로 repo를 팠는데, 주말에 개인 노트북에서 업데이트하고 회사에서 repo 새로 만들어서 몇 일 날려먹었다.
+- #100DaysOfCode repo 를 fork 해서 했는데, 잔디 심기가 안 되서 그냥 새로 repo 를 팠는데, 주말에 개인 노트북에서 업데이트하고 회사에서 repo 새로 만들어서 몇 일 날려먹었다.
 - node.js 교과서 책 좋다. 빨리 꾸준히 보면서 javascript 와 backend 익숙하게 system 만들고 싶다.
 
 **Link to work:**
@@ -106,12 +120,11 @@
 - [TIL/javascript at master · tkhwang/TIL](https://github.com/tkhwang/TIL/tree/master/javascript)
 - [tkhwang-coding-practice/server.js at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/book/nodejs_textbook/chap04/server.js)
 
-
 ### Day 5 : Jul 29, 2018 SUN
 
 **Today's Progress**:
 
-- DailyCodingProblem에 monthly subscribe 하여 매일 문제 풀기 시작함. Day206문제 python 풀었음.
+- DailyCodingProblem 에 monthly subscribe 하여 매일 문제 풀기 시작함. Day206 문제 python 풀었음.
 - Javascript algorithm code 에 TDD 방식 적용.
 - freeCodeCamp Basic javascript (Escaping Literal Quotes in Strings ~ Use Bracket Notation to Find the Last Character in a String)
 
