@@ -12,6 +12,26 @@
 **Link to work:**
 ```
 
+### Day 14 : Aug 15, 2018 Wed
+
+**Today's Progress**:
+
+- Go Language Syntax 를 go-language 문법책 다시 참조하면서 정리.
+- CryotoZombie : 다시 풀어보면서 solidity 문법 다시 정리 중 (chapter 11/lessone1))
+
+**Thoughts:** :
+
+- `go-etherem` 과 `hyperledger fabric` 소스 분석하면서 go language 이해가 부족한 부분이 있어서
+기초 문법을 다시 정리해보고 있다. 하니씩 좀더 적극적으로 하면서 이해의 폭도 넓어지면서 코드도
+잘 이해되어 좋다. 좀더 해보자.
+- go langauge 와 함께 solidity 역시 다시 정리 중. javascript, go lang. solidity 서로 비슷한
+언어를 동시에 익히면서 비슷한 문법에 다소 혼동이 온다.
+
+**Link to work:**
+
+- Go Syntax 정리 in TIL/go : [TIL/go at master · tkhwang/TIL](https://github.com/tkhwang/TIL/tree/master/go)
+- Solidity 문법 정리 : CryptoZombie.io [tkhwang-coding-practice/blockchain/cryptozombies.io/lesson1 at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/tree/master/blockchain/cryptozombies.io/lesson1)
+
 ### Day 13 : Aug 14, 2018 Tue
 
 **Today's Progress**:
