@@ -12,6 +12,22 @@
 **Link to work:**
 ```
 
+### Day 15 : Aug 16, 2018 SAT
+
+**Today's Progress**:
+
+- Udemy algorithm 강좌 (Essential Coding Interview Questions + Coding Exercises!) 중에서 array 문제를 python 으로 풀이함.
+- Python TDD 방법론 적용함.
+
+**Thoughts:** :
+
+- Algorithm 문제 푸는데 python TDD 중에서 `pytest` module 사용한 방법 적용하기 시작함.
+- 앞으로는 가능하면 TDD 기반으로 코드 작성하도록 연습할 예정임.
+
+**Link to work:**
+
+- [tkhwang-coding-practice/solv_test.py at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/coding/algorithm/11-essential-coding-interview-questions/section02/most-frequently-occurring-item-in-an-array/solv_test.py)
+
 ### Day 14 : Aug 15, 2018 Wed
 
 **Today's Progress**:
