@@ -12,6 +12,21 @@
 **Link to work:**
 ```
 
+### Day 20 : Aug 30, THR
+
+**Today's Progress**:
+
+- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 시작함.
+
+**Thoughts:** :
+
+- 그동안 log에는 남기지 못했지만 내부적으로 진행하던 것이 있어서 몇 일 skip 했음.
+- 프로그래머서 사이트 알고리즘 쉬운 레벨부터 빨리 풀고, javascript 에 익숙해지려고 함.
+
+**Link to work:**
+
+- [tkhwang-coding-practice/remove-the-smallest-number.md at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/coding/coding_site/programmers/level1/remove-the-smallest-number.md)
+
 ### Day 15 : Aug 16, 2018 SAT
 
 **Today's Progress**:
