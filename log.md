@@ -12,6 +12,20 @@
 **Link to work:**
 ```
 
+### Day 21 : Aug 31, SAT
+
+**Today's Progress**:
+
+- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 8개 완료함.
+
+**Thoughts:** :
+
+- Javascript.. 아직도 익숙하지 못함. T_T;
+
+**Link to work:**
+
+- [tkhwang-coding-practice/coding/coding_site/programmers/level1 at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/tree/master/coding/coding_site/programmers/level1)
+
 ### Day 20 : Aug 30, THR
 
 **Today's Progress**:
