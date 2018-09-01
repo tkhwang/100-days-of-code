@@ -11,8 +11,22 @@
 
 **Link to work:**
 ```
+### Day 22 : Sep 01, Sat
 
-### Day 21 : Aug 31, SAT
+**Today's Progress**:
+
+- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 20개 완료함.
+
+**Thoughts:** :
+
+- Javascript 로 된 쉬운 알고리즘 문제 풀이 진행하고 있음.
+- 빨리 자유롭게 쓸 수 있도록 좀더 많이 문제 풀이 해야할 듯함.
+
+**Link to work:**
+
+- [tkhwang-coding-practice/coding/coding_site/programmers/level1 at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/tree/master/coding/coding_site/programmers/level1)
+
+### Day 21 : Aug 31, FRI
 
 **Today's Progress**:
 
