@@ -7,15 +7,33 @@
 
 **Today's Progress**:
 
+
 **Thoughts:** :
 
 **Link to work:**
 ```
+
+### Day 23 : Sep 06, Thr
+
+**Today's Progress**:
+
+- Coderbyte 의 challenge - easy 단계 문제 풀이 시작함.
+- Javascript 문제 풀이 시 TDD 방식으로 문제 풀이 함.
+
+**Thoughts:** :
+
+- [Coderbyte](https://coderbyte.com/) 문제 풀이 용으로 자주 활용할 예정임.
+- 문제 풀이 시 TDD 방식으로 진행 함.
+
+**Link to work:**
+
+- Coderbyte 의 Easy 단계 javascript 문제 풀이 : [[+] coderbyte : javascript · tkhwang/tkhwang-coding-practice@5cf24db](https://github.com/tkhwang/tkhwang-coding-practice/commit/5cf24db4fc75d64b00b09b18765144d94b568461)
+
 ### Day 22 : Sep 01, Sat
 
 **Today's Progress**:
 
-- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 20개 완료함.
+- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 20 개 완료함.
 
 **Thoughts:** :
 
@@ -30,7 +48,7 @@
 
 **Today's Progress**:
 
-- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 8개 완료함.
+- 프로그래머스 사이트 알고리즘 level1 / javascript 문제 풀이 8 개 완료함.
 
 **Thoughts:** :
 
@@ -48,7 +66,7 @@
 
 **Thoughts:** :
 
-- 그동안 log에는 남기지 못했지만 내부적으로 진행하던 것이 있어서 몇 일 skip 했음.
+- 그동안 log 에는 남기지 못했지만 내부적으로 진행하던 것이 있어서 몇 일 skip 했음.
 - 프로그래머서 사이트 알고리즘 쉬운 레벨부터 빨리 풀고, javascript 에 익숙해지려고 함.
 
 **Link to work:**
@@ -81,10 +99,10 @@
 **Thoughts:** :
 
 - `go-etherem` 과 `hyperledger fabric` 소스 분석하면서 go language 이해가 부족한 부분이 있어서
-기초 문법을 다시 정리해보고 있다. 하니씩 좀더 적극적으로 하면서 이해의 폭도 넓어지면서 코드도
-잘 이해되어 좋다. 좀더 해보자.
+  기초 문법을 다시 정리해보고 있다. 하니씩 좀더 적극적으로 하면서 이해의 폭도 넓어지면서 코드도
+  잘 이해되어 좋다. 좀더 해보자.
 - go langauge 와 함께 solidity 역시 다시 정리 중. javascript, go lang. solidity 서로 비슷한
-언어를 동시에 익히면서 비슷한 문법에 다소 혼동이 온다.
+  언어를 동시에 익히면서 비슷한 문법에 다소 혼동이 온다.
 
 **Link to work:**
 
@@ -293,3 +311,7 @@
 
 - Code : [tkhwang-coding-practice/index.js at master · tkhwang/tkhwang-coding-practice](https://github.com/tkhwang/tkhwang-coding-practice/blob/master/algorithm/coding-interview-bootcamp-algorithms-and-data-structure/maxchar/index.js)
 - Lecture : [The Coding Interview Bootcamp: Algorithms + Data Structures | Udemy](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/t/lecture/8533100?start=0)
+
+```
+
+```
