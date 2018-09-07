@@ -13,6 +13,20 @@
 **Link to work:**
 ```
 
+### Day 24 : Sep 07, Fri
+
+**Today's Progress**:
+
+- Coderbytes 의 challenge - easy 단계 문제 풀이. (15 EA)
+
+**Thoughts:** :
+
+- Javascript : callback function 의 경우 parameter 가 명확하지 않아서 혼동이 많았으나 조금씩 이해가도되기 시작함.
+
+**Link to work:**
+
+- [[+] coderbyte : easy javascript problem solving · tkhwang/tkhwang-coding-practice@f343705](https://github.com/tkhwang/tkhwang-coding-practice/commit/f343705e8e170511bd0f953b7a1ad853954e9e27)
+
 ### Day 23 : Sep 06, Thr
 
 **Today's Progress**:
