@@ -13,6 +13,22 @@
 **Link to work:**
 ```
 
+### Day 25/26 : Sep 09/10, Sat/Sun
+
+**Today's Progress**:
+
+- Coderbytes 의 challenge - easy 단계 문제 풀이. (25 EA 완료.)
+
+**Thoughts:** :
+
+- Javascript 문제 풀이에 이전 보다는 조금씩 익숙해지고 있는 느낌이다. 기본적인 문법에 다소 이해가 넓혀졌으며, 특히 엉성한
+  callback function 시의 argument 동작에 대해서 이해가 됨.
+- 앞으로는 양을 좀더 늘릴 계획이다.
+
+**Link to work:**
+
+- [[+] Coderbyte easy problem solving - javascript · tkhwang/tkhwang-coding-practice@94aa1f5](https://github.com/tkhwang/tkhwang-coding-practice/commit/94aa1f507af0caaa1a2e8a1e4781c6c18aa854e4)
+
 ### Day 24 : Sep 07, Fri
 
 **Today's Progress**:
