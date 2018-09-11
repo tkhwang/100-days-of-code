@@ -7,11 +7,26 @@
 
 **Today's Progress**:
 
-
 **Thoughts:** :
 
 **Link to work:**
 ```
+
+### Day 27/28 : Sep 11/12, Mon/Tue
+
+**Today's Progress**:
+
+- Javascript problem solving : coderbytes 26 EA 문제 풀이 완료.
+- Codestates pre-course 52 EA 문제 풀이 완료.
+
+**Thoughts:** :
+
+- 쉬운 문제 풀이를 빨리 완료하여 javascript 문법에 익숙하게 한다.
+- 익숙하게 된 이후에 front-end, back-end 로 좀더 확대해나갈 계획이다.
+
+**Link to work:**
+
+- [[+] javascript problem solving. · tkhwang/tkhwang-coding-practice@85b97cf](https://github.com/tkhwang/tkhwang-coding-practice/commit/85b97cfcf2c967b8687b7cca9c3b74e020d46694)
 
 ### Day 25/26 : Sep 09/10, Sat/Sun
 
