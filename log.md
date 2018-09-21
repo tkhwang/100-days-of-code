@@ -12,6 +12,22 @@
 **Link to work:**
 ```
 
+### Day 30 : Sep 21, Fri
+
+**Today's Progress**:
+
+- Javascript : Function programming 관심 갖기 시작함.
+- HTML 과 CSS 시작함 : DOM (Document Object Modeling)
+
+**Thoughts:** :
+
+- 기본적인 javascript 문법은 어느 정도 감이 잡힘.
+- 가장 부족한 DOM/CSS 익숙하게 익히고 나서 [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/) 예제를 daily 로 매일 하나씩 풀어볼 예정임.
+
+**Link to work:**
+
+- [[+] coderbyte javascript problem solving added. · tkhwang/tkhwang-coding-practice@6c2a280](https://github.com/tkhwang/tkhwang-coding-practice/commit/6c2a28069597bf4e064b23667d6e9bd1fedcca43)
+
 ### Day 27/28 : Sep 11/12, Mon/Tue
 
 **Today's Progress**:
