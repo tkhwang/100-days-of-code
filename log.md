@@ -12,6 +12,23 @@
 **Link to work:**
 ```
 
+### Day 31 : Sep. 25, Tue
+
+**Today's Progress**:
+
+- jQuery : codeacademy 학습함.
+- Coderbyte : Easy (44 / 87) 완료함.
+
+**Thoughts:** :
+
+- HTML/CSS 공부하면서 web 에 대한 이해가 조금씩 넓어 지고 있다.
+- jQuery 좀더 학습 예정임.
+- CSS 역시 기본적인 내용은 학습 예정임.
+
+**Link to work:**
+
+- [[+] Javascript / coderbyte - problem solving. · tkhwang/tkhwang-coding-practice@128d99a](https://github.com/tkhwang/tkhwang-coding-practice/commit/128d99a5e7abcacf2c7090b6475f95f62cde71c4)
+
 ### Day 30 : Sep 21, Fri
 
 **Today's Progress**:
