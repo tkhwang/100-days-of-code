@@ -12,6 +12,27 @@
 **Link to work:**
 ```
 
+### Day 35 : Oct 4, Thu
+
+**Today's Progress**:
+
+- Underscore 구현
+  - 주요 함수 : `_.each()`, `_.map()`, `_.reduce()` 구현함.
+  - 추가 함수 구현 예정임.
+- Coderbyte javascript problem solving : Easy (47 / 87)
+
+**Thoughts:** :
+
+- Javascript problem solving
+  - Coderbyte 보다 leetcode 사이트 문제가 더 좋은 듯 해서 앞으로 leetcode 문제 풀이로 바꾸어서 풀어 볼 예정.
+- Functional programming
+  - Underscore library 구현으로 입문을 하여 몇 가지 책을 보면서 functional programming 구현에 입문.
+- Big Nerd Ranch Guid 의 Front-end guide book 따라가면서 기초적인 HTML/CSS/Javascript/jQuery 이용한 front-end 기초 스터디 진행함.
+
+**Link to work:**
+
+- [[+] Big nerd ranch guid front-end : chapter 6 · tkhwang/tkhwang-coding-practice@ffc3b7e](https://github.com/tkhwang/tkhwang-coding-practice/commit/ffc3b7e5a3b387d79cb7274fde99f4ff667936ef)
+
 ### Day 31 : Sep. 25, Tue
 
 **Today's Progress**:
