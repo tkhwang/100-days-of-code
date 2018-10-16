@@ -12,6 +12,22 @@
 **Link to work:**
 ```
 
+### Day 36 : Oct 16, Tue
+
+**Today's Progress**:
+
+- Javascript : Underbar live coding 하면서 부족한 부분 보강하고 있음.
+	- `_.every()`, `_some()`
+- Recursion : `getElementByClassName()` 구현 부분 보강함.
+- freeCodeCamp : basic Javascript synctax clear 함.
+
+**Thoughts:** :
+
+- 최근에 `#100DaysOfCode` 를 daily로 적지 못하고 있어서 오늘부터는 매일 빠지지 않고 적어야 할 듯.
+- 매일 매일 학습한 내용에 대해서 좀더 자세하게 적으면서 나의 발전한 모습도 함께 적어나갈 수 있도록 해보자. :+1:
+
+**Link to work:**
+
 ### Day 35 : Oct 4, Thu
 
 **Today's Progress**:
