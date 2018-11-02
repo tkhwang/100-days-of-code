@@ -12,18 +12,33 @@
 **Link to work:**
 ```
 
+### Day 37 : Nov 2, Fri
+
+**Today's Progress**:
+
+- Data-structure 기본 구현 : stack, queue, linked-list, tree, graph, hash-tree
+
+**Thoughts:** :
+
+- 그동안 가장 싫어하는 분야가 data-structure 와 algorithm 이었는데, 꼭 필요한 분야임을 알기에 이번에는 좀더 익숙해지도록 공부해보자.
+- Javascript 는 많이 익숙해졌다. node, react 로 빨리 서비스 만들고 싶다.
+- 앞으로는 매일 `#100DaysOfCode` 작성할 예정.
+
+**Link to work:**
+
+- Private repository commit.
+
 ### Day 36 : Oct 16, Tue
 
 **Today's Progress**:
 
-- Javascript : Underbar live coding 하면서 부족한 부분 보강하고 있음.
-	- `_.every()`, `_some()`
+- Javascript : Underbar live coding 하면서 부족한 부분 보강하고 있음. - `_.every()`, `_some()`
 - Recursion : `getElementByClassName()` 구현 부분 보강함.
 - freeCodeCamp : basic Javascript synctax clear 함.
 
 **Thoughts:** :
 
-- 최근에 `#100DaysOfCode` 를 daily로 적지 못하고 있어서 오늘부터는 매일 빠지지 않고 적어야 할 듯.
+- 최근에 `#100DaysOfCode` 를 daily 로 적지 못하고 있어서 오늘부터는 매일 빠지지 않고 적어야 할 듯.
 - 매일 매일 학습한 내용에 대해서 좀더 자세하게 적으면서 나의 발전한 모습도 함께 적어나갈 수 있도록 해보자. :+1:
 
 **Link to work:**
