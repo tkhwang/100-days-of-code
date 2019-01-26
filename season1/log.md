@@ -12,6 +12,29 @@
 **Link to work:**
 ```
 
+### Day 41 : Dec. 21
+
+**Today's Progress**:
+
+- First day of new 4-week project.
+
+**Thoughts:** :
+
+**Link to work:**
+
+### Day 40 : Nov 16, Fri
+
+**Today's Progress**:
+
+- This week is front-end week (`react` and `redux`).
+- Finally, I bare to understand `redux`.
+
+**Thoughts:** :
+
+- react
+
+**Link to work:**
+
 ### Day 37 : Nov 2, Fri
 
 **Today's Progress**:
